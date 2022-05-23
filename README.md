@@ -6,6 +6,9 @@ Amidst all the complexities involved in running an Online Fashion Store, retaile
 # What is the purpose of this project?
 Enables the customer to browse the firm's range of products and services, view photos or images of the products, along with information about the product specifications, features and prices.
 
+# What is your purpose of doing this project?
+- it serve as our evaluation of our knowledge and skills to this subject so far.
+
 # References
 https://blog.thejacketmaker.com/types-of-jackets-for-men/
 https://www.google.com/maps?ll=12.602674,124.031153&z=11&t=m&hl=en&gl=BD&mapclient=embed&q=Matnog+Sorsogon+Philippines
