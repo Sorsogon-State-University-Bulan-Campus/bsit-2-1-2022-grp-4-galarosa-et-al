@@ -1,6 +1,9 @@
-# <Title of your project>
+# FASHION WEBSITE - RJC SHOP
 
-Add description about your project
+# Description:
+* This project is created and modified with the effort of each members of this group.
   
 # <Members> (with github username)
-  * Juan Dela Cruz (@juandelacruz)
+  * JONNA F. GALAROSA (@jonnagalarosa)
+  * ROBERT JAMES GATON (@RJGATON007)
+  * CLEVEN GAVARRA (@GavarraclevenBSIT2A)
