@@ -21,3 +21,5 @@ https://www.google.com/maps?ll=12.602674,124.031153&z=11&t=m&hl=en&gl=BD&mapclie
   * Anthony Gacis (@ageesea)
 # REPO LINK - FASHION WEBSITE
 https://github.com/Jonnagalarosa/Jonnagalarosa.git 
+
+# Adi po sa link ang amo output. sana maimud mo ini sir. salamat 
