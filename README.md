@@ -6,7 +6,7 @@ Amidst all the complexities involved in running an Online Fashion Store, retaile
 # What is the purpose of this project?
 Enables the customer to browse the firm's range of products and services, view photos or images of the products, along with information about the product specifications, features and prices.
 
-#What is the purpose of doing this project?
+# What is the purpose of doing this project?
 It serve as our evaluation of skills to this subject so far.
 
 # References
